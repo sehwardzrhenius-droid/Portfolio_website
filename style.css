@@ -10,7 +10,6 @@ body {
     color: white;
 }
 
-/* HERO */
 .hero {
     height: 100vh;
     display: flex;
@@ -44,7 +43,6 @@ body {
     transform: scale(1.1);
 }
 
-/* NAV */
 .nav {
     position: sticky;
     top: 0;
@@ -61,7 +59,6 @@ body {
     font-weight: bold;
 }
 
-/* SECTIONS */
 section {
     max-width: 900px;
     margin: 80px auto;
@@ -117,8 +114,6 @@ h2 {
     transform: translateY(-8px) scale(1.02);
 }
 
-
-/* ANIMATIONS */
 .fade-up {
     opacity: 0;
     transform: translateY(40px);
@@ -147,3 +142,4 @@ h2 {
         transform: translateY(0);
     }
 }
+
